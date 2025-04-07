@@ -1,2 +1,1 @@
-# freebasic.open.pdf
-open pdf from freebasic
+# 4 bits + power bus using curve
