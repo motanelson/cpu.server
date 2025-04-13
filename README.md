@@ -1,1 +1,1 @@
-# 4 bits + power bus using curve 
+# download bin utils
