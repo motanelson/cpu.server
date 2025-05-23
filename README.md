@@ -1,1 +1,1 @@
-mining simulator
+server cpu label over a server host
